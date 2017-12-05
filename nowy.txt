@@ -1,5 +1,6 @@
 to jest 
 calkowicie
 randomowy
-dokument
-tekstowy
+trzy
+losowe
+linie
